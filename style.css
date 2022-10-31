@@ -1,0 +1,8 @@
+#main{
+    display: flex;
+    justify-content: center;
+}
+.main1{
+    background-color: blue;
+    margin:500px;
+}
